@@ -1,9 +1,5 @@
 const players = ["John", "Bob", "Alice", "Poppy"];
 
-const team = ["John", "Bob", "Alice", "Dhoni"];
-
-const team1 =["John", "Bob", "Alice", "Poppy"];
-
 
 
 const person = {
@@ -11,12 +7,16 @@ const person = {
   age: 80,
 };
 
-const cap1 ={
-	name: "John Doe",
-  age: 80,
-}
+
 
 // Write your code here, make sure the name of variables is exactly same as mentioned in the problem statement
+
+var team = players;
+var team1 = "";
+	for (let i = 0; i < players.length; i++) { 
+		team1=(window.team1[i]);
+	 }
+var cap1 = person();
 
 window.players = players;
 window.person = person;
