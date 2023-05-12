@@ -1,6 +1,6 @@
 const players = ["John", "Bob", "Alice", "Poppy"];
 
-const team = ["John", "Bob", "Alice", "Poppy"];
+const team = ["John", "Bob", "Alice", "Dhoni"];
 
 const team1 =["John", "Bob", "Alice", "Poppy"];
 
