@@ -1,4 +1,4 @@
-const players = ["John", "Bob", "Alice", "Poppy"];
+let players = ["John", "Bob", "Alice", "Poppy"];
 
 
 
@@ -14,7 +14,7 @@ const person = {
 var team = players;
 var team1 = "";
 	for (let i = 0; i < players.length; i++) { 
-		team1=(window.team1[i]);
+		team1[i]=players[i];
 	 }
 var cap1 = person();
 
